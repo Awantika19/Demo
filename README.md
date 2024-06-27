@@ -1,2 +1,3 @@
 # Demo
-Start to learning
+This is my first Git 
+Author-Awantika
